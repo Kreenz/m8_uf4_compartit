@@ -14,10 +14,11 @@ and open the template in the editor.
 
         function dmj_uno() {
             //aqui va codigo
+           
         }
 
         function dmj_dos() {
-            
+           echo "aqui va codigo"; 
         }
 
         function dmj_tres() {
