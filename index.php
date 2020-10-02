@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
 
         function dmj_uno() {
-            
+            //aqui va codigo
         }
 
         function dmj_dos() {
