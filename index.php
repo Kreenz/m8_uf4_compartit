@@ -11,19 +11,19 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+
+        function dmj_uno() {
+            
+        }
+
+        function dmj_dos() {
+            
+        }
+
+        function dmj_tres() {
+            
+        }
         
-             /* function ofc_contar(){
-                
-            }
-            
-            function ofc_salida(){
-                
-            }
-            
-            function ofc_entrada(){
-                
-            } */
-            
         ?>
     </body>
 </html>
