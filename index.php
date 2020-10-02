@@ -15,6 +15,7 @@ and open the template in the editor.
         function dmj_uno() {
             //aqui va codigo
            
+            echo "esta es la funcion uno";
         }
 
         function dmj_dos() {

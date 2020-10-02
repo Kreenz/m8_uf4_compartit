@@ -1,6 +1,7 @@
 <?php
 
 function dmj_uno() {
+    //mas codigoo
     //mas codigo
     
     echo "mas codigo";
