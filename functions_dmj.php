@@ -1,7 +1,7 @@
 <?php
 
 function dmj_uno() {
-    //mas codigo
+    //mas codigoo
 }
 
 function dmj_dos() {
