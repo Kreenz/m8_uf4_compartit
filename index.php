@@ -11,18 +11,30 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+
+        function dmj_uno() {
             
-            function ofc_contar(){
-                echo "Contar " . (1 + 1);
-            }
+        }
+
+        function dmj_dos() {
             
-            function ofc_salida(){
-                echo "Salida Oriol F ";
-            }
+        }
+
+        function dmj_tres() {
             
-            function ofc_entrada(){
-                echo "Entrada Oriol F ";
-            }
+        }
+        
+        function ofc_contar(){
+            echo "Contar " . (1 + 1);
+        }
+
+        function ofc_salida(){
+            echo "Salida Oriol F ";
+        }
+
+        function ofc_entrada(){
+            echo "Entrada Oriol F ";
+        }
             
         ?>
     </body>
