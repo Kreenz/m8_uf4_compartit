@@ -11,18 +11,18 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        
-             /* function ofc_contar(){
-                
+            
+            function ofc_contar(){
+                echo "Contar " . (1 + 1);
             }
             
             function ofc_salida(){
-                
+                echo "Salida Oriol F ";
             }
             
             function ofc_entrada(){
-                
-            } */
+                echo "Entrada Oriol F ";
+            }
             
         ?>
     </body>
